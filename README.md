@@ -7,4 +7,4 @@ juliaを使って一からニューラルネットワークを構築していく
 
 mnistを単純なcnnで説いた結果  
 
-![](juliat-DL/output/accuracy.png)
+![](output/accuracy.png)
